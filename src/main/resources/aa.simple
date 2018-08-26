@@ -1,0 +1,9 @@
+#parse("macro/da.macro")
+{
+    "a" : "hi",
+    "b" : #da(),
+    "c" : "da()",
+    "d" : "net",
+    "e" : #da(),
+    "g" : #da()
+}
